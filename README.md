@@ -1,5 +1,5 @@
 # FHIR Patient Record Viewer
-This application enables doctors to view and monitor the patient records fetched from the server for further analytical purposes. 
+This Java application enables doctors to view and monitor the patient records fetched from the server for further analytical purposes. 
 
 <br/>
 
